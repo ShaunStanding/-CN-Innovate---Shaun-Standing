@@ -35,3 +35,21 @@ font-weight: 300
 nav a{
     color: black;
 }
+nav>a{
+    color: pink;
+}
+/* pseudo elements */
+/* example of how a mouse pointer interacts with a link */
+a:hover{
+    color: chocolate;
+    font-family: serif
+}
+a:visited{
+columns: black;
+}
+
+/*Mobile first*/
+/* vw vh */
+/* Overflow*/
+/* box model = margin - border - padding - content */
+
