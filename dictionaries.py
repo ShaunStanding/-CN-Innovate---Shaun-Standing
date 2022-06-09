@@ -3,7 +3,7 @@
 
 # dog_1 = ["Max","Brown","Placid"]
 
-#dog_2 = {"name": "Max", "color":"Brown", "personality":"Placid"}
+dog_2 = {"name": "Max", "color":"Brown", "personality":"Placid"}
 
 # print(dog_2["name"])
 
@@ -16,10 +16,10 @@
 
 # dog_2["color"] = "Black"
 
-# print(dog_2.values())
-# print(dog_2.keys())
-# print(dog_2.items())
-# print(dog_2.get())
+print(dog_2.values())
+print(dog_2.keys())
+print(dog_2.items())
+print(dog_2.get())
 
 
 
