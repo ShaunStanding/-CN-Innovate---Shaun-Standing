@@ -6,8 +6,8 @@
 
 .container {
     display: flex;
-    min-height: 100vh;
-    flex-direction: row;
+    min-height: 98.3vh;
+    flex-flow: row wrap;
 }
 
 .box {
@@ -16,9 +16,9 @@
     font-family: 'Montserrat Alternates', sans-serif;
     text-align: center;
     padding: 15px;
-    /*
-    width: 400px;
-    */
+    
+    /* width: 400px; */
+    
 }
 
 /* Colours for each box */
