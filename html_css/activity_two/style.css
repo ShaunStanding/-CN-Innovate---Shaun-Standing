@@ -1,0 +1,36 @@
+*{
+box-sizing: border-box;
+}
+
+.staff{
+display: flex;
+flex-flow: column;text-align: center;
+background-color: #add8e6;
+border: 5px rgb(6, 14, 228) solid;
+color: rgb(103, 112, 183);
+padding: 5%;
+justify-content: space-between;
+margin: 1%;
+}
+
+img{
+display: none;
+}
+
+@media(
+min-width: 1024px
+){
+
+.container{
+display: flex;
+
+}
+img{
+display: block;
+width: 65%;
+
+} .staff{
+align-items: center;
+}
+}
+
