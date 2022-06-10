@@ -1,0 +1,36 @@
+
+
+
+@media (orientation: portrait) {
+.dark {
+color:#f9f9f7;
+background-color: black;
+text-align: center;
+padding: 5%;
+}
+}
+
+
+@media (orientation: landscape) {
+.light {
+color:rgb(175, 115, 115);
+background-color:whitesmoke;
+text-align: center;
+padding: 5%;
+}
+}
+
+
+.desktop, .mobile {
+display: none;
+}
+@media (orientation: landscape) {
+.desktop {
+display: inline-block;
+}
+}
+@media (orientation: portrait) {
+.mobile {
+display: inline-block;
+}
+}
