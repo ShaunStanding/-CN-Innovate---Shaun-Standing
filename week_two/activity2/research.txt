@@ -1,0 +1,6 @@
+what is object orientated programming?:
+according to techtarget.com: "Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behaviour."
+W3schools.com says "Procedural programming is about writing procedures or functions that perform operations on the data, while object-oriented programming is about creating objects that contain both data and functions."
+in summary OOP is the way we structure certain types of programming languages such as python. Often broken down into what is referred to as the four pillars. These are encapsulation, inheritance, polymorphism and abstraction. 
+
+I struggled to find anything that really made sense to me in terms of finding an analogy, however I did find this cool website that uses squid games to attempt to explain OOP. (https://www.naukri.com/learning/articles/web-stories/learn-oops-with-analogy/)
